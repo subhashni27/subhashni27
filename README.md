@@ -3,8 +3,10 @@
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋, I'm Subhashni Rajaram</h1>
-<h3 align="center">Passionate Frontend Developer & UI/UX Designer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://tenor.com/view/mythikore-anime-girl-anime-vtuber-cute-gif-4344421129862648202")
+<h3 align="center"> Passionate Frontend Developer & UI/UX Designer from India </h3>
+  
+<img src="https://github.com/subhashni27/subhashni27/blob/main/dev-girl.png.jpg?raw=true" height="500" style="margin-right: 10px; vertical-align: middle;" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashni27&label=Profile%20views&color=0e75b6&style=flat" alt="subhashni27" /> </p>
 
