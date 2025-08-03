@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=subhashni27&label=Profile%20views&color=0e75b6&style=flat" alt="subhashni27" />
-  <img src="https://github.com/subhashni27/subhashni27/blob/main/dev-girl.png.jpg?raw=true" alt="dev-girl" height="350" align="right" style="margin-left: 10px;" />
+  <img src="https://github.com/subhashni27/subhashni27/blob/main/dev-girl.png.jpg?raw=true" alt="dev-girl" height="250" align="right" style="margin-left: 10px;" />
 </p>
 
 
