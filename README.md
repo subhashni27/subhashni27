@@ -1,6 +1,3 @@
-[![MasterHead]
-<div class="tenor-gif-embed" data-postid="22206312" data-share-method="host" data-aspect-ratio="2.01258" data-width="100%"><a href="https://tenor.com/view/banner-gif-22206312">Banner GIF</a>from <a href="https://tenor.com/search/banner-gifs">Banner GIFs</a></div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋, I'm Subhashni Rajaram</h1>
 <h3 align="center"> Passionate Frontend Developer & UI/UX Designer from India </h3>
