@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Subhashni Rajaram</h1>
 <h3 align="center"> Passionate Frontend Developer & UI/UX Designer from India </h3>
-  
-<img src="https://github.com/subhashni27/subhashni27/blob/main/dev-girl.png.jpg?raw=true" height="500" style="margin-right: 10px; vertical-align: middle;" />
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=subhashni27&label=Profile%20views&color=0e75b6&style=flat" alt="subhashni27" />
+  <img src="https://github.com/subhashni27/subhashni27/blob/main/dev-girl.png.jpg?raw=true" alt="dev-girl" height="350" align="right" style="margin-left: 10px;" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashni27&label=Profile%20views&color=0e75b6&style=flat" alt="subhashni27" /> </p>
 
 - 👯 I’m looking to collaborate on **Creative frontend projects, UI/UX design work, web apps using React, and freelance projects.**
 
